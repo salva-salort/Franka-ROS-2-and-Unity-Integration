@@ -2,5 +2,12 @@ build/
 devel/
 install/
 log/
+
+!build/.gitkeep
+!devel/.gitkeep
+!install/.gitkeep
+!log/.gitkeep
+
 *.pyc
 __pycache__/
+*Zone.Identifier*
